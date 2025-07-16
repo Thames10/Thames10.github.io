@@ -2,7 +2,7 @@
 layout: Default
 ---
 <head>
-  <title>My GitHub Page Title</title>
+  <title>Tyler Thames Cybersecurity Projects</title>
 </head>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

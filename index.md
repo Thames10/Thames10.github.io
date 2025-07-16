@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout:Default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

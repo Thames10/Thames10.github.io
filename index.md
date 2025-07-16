@@ -1,9 +1,6 @@
 ---
 layout: Default
 ---
-<head>
-  <title>Tyler Thames Cybersecurity Projects</title>
-</head>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

@@ -1,7 +1,9 @@
 ---
 layout: Default
 ---
-<title>Cybersecurity Projects – Tyler Thames</title>
+<head>
+  <title>My GitHub Page Title</title>
+</head>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

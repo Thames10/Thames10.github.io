@@ -1,6 +1,7 @@
 ---
-layout: Tyler Thames Cybersecurity Projects
+layout: Default
 ---
+<title>Cybersecurity Projects – Tyler Thames</title>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
